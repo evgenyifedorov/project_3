@@ -1,6 +1,6 @@
 import pytest
 
-from utils.functions import *
+from src.utils import *
 
 
 def test_format_date():
