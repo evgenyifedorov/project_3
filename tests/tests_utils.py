@@ -20,4 +20,4 @@ def test_mask_amount_number():
 
 def test_load_json_operations():
     """тест на проверку функции вывода пяти операций"""
-    assert get_last_five_operations() == get_last_five_operations()
+    assert load_json_operations() == load_json_operations()
